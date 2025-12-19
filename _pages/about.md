@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Neuroscientist at University of Birmingham, CHBH. 
+subtitle: University of Birmingham, CHBH. 
 
 profile:
   align: right
