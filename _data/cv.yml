@@ -2,51 +2,51 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Thomas Keith Roberts
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2001-11-09
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc
+      institution: University of Birmingham, Birmingham United Kingdom 
+      year: 2025
       description:
-        - Description 1.
+        - Computational Neuroscience.
         - Description 2.
-        - title: Description 3.
+        - title: Projects
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Improving Speech Decoding.
+            - Mathematical Models of time series data.
+    - title: BSc
+      institution: University of Birmingham, Birmingham, United Kingdom. And Korea University, Seoul, South Korea
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Psychology.
+        - Data Science.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Centre for Human Brain Health, University of Birmingham.
+      year: 2025 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Analysing time-series data using MNE python.
+        - Advanced machine learning techniques.
+        - title: Projects.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Applying Transformer models to visual perception task.
+            - CHBH Documentation.
+    - title: Teaching Assistant
+      institution: School of Psychology, University of Birmingham.
+      year: 2025 - present
       description:
-        - Description 1.
-        - Description 2.
+        - Data Science.
+        - Python.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -64,7 +64,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: <a href="https://github.com/TommyTNeuro/</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
