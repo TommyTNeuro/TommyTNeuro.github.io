@@ -82,6 +82,13 @@ ninja.data = [{
           window.open("https://medium.com/@TommyTNeuro", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/https://orcid.org/0009-0004-3158-0578", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
