@@ -86,7 +86,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0004-3158-0578", "_blank");
+          window.open("https://orcid.org/0009-0004-3158-0578", "_blank");
         },
       },{
       id: 'light-theme',
