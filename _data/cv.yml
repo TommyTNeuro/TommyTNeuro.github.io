@@ -16,11 +16,11 @@
       year: 2025
       description:
         - Computational Neuroscience.
-        - Description 2.
+        - Data Science.
         - title: Projects
           contents:
-            - Improving Speech Decoding.
-            - Mathematical Models of time series data.
+            - Improving Speech Decoding using foundational models.
+            - Developing BCI's for real-time analysis of time-series data.
     - title: BSc
       institution: University of Birmingham, Birmingham, United Kingdom. And Korea University, Seoul, South Korea
       year: 2021
