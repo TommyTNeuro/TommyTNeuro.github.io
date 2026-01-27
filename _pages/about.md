@@ -9,7 +9,7 @@ profile:
   image: TommyTNeuro.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-   <p>University of Birmingham and Korea University<p>
+   <p>British Neuroscience Association<p>
     <p>BSc in Psychology, Data Science<p>
     <p>MSc in Compuational Neuroscience<p>
 
@@ -32,3 +32,5 @@ Compuational Neuroscientist specializing in brain computer interfaces. My focus 
 I would like to also leverage memory safe languages, such as rust, in critical components in BCI’s to ensure stability and consistency and apply this technology within a clinical setting. The development of this goal will improve inner speech decoding performance and efficient low compute pipeline for analysis.
 
 This research has promising impacts for those with speech problems due to damage or psychiatric conditions.
+
+I'm committed to open science practices and producing excellent replicable science. I'm a member of the British Neuroscience Association and Federation of European Neuroscience Societies. 
