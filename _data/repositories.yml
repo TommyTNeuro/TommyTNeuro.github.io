@@ -5,3 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - TommyTNeuro/cancellation-task-stim-exp-pipeline
+  - TommyTNeuro/pico-scripts
+  - TommyTNeuro/rust-guessing-game
