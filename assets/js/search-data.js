@@ -89,6 +89,13 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0004-3158-0578", "_blank");
         },
       },{
+        id: 'social-osf',
+        title: 'Open Science Framework',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://osf.io/btgz2/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
