@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Compuational Neuroscientist specalising in brain computer interfaces. My focus is on leveraging foundational transformer models to improved decoding performance in imagined speech decoding. This is in an effort to work toward reasearch in real-time speech decoding by leveraging these techniques and creating highly performant, low compute models. 
+Compuational Neuroscientist specializing in brain computer interfaces. My focus is on developing a non-invasive Brain Computer Interface (BCI) using Optically Pumped Magnetometers Magnetoencephalography (OPM-MEG) to decode inner speech in real-time. Leveraging OPM-MEGs with their unique strengthens in real-time neural feedback and superior spatial localization provides as the best method currently to achieve this.
 
-I hope to leverage the unique power of novel techniques to push the boundries of decoding neural data using non-invasive brain imaging techniques. In particular I would like to leverage OPM-MEGs with their unique stengthes in real-time neural feedback and superior spatial localisation compare to other techniques to achieve this effect. I would like to also leverage memory safe languages in critical components in these BCI's to ensure stability and consistency to be able to apply this technology in a clinical setting. 
+I would like to also leverage memory safe languages, such as rust, in critical components in BCI’s to ensure stability and consistency and apply this technology within a clinical setting. The development of this goal will improve inner speech decoding performance and efficient low compute pipeline for analysis.
 
-This research has promising impacts for those with speech problems due to damage or psychiatric conditions. 
+This research has promising impacts for those with speech problems due to damage or psychiatric conditions.
