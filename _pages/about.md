@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
    <p>British Neuroscience Association<p>
-    <p>BSc in Psychology, Data Science<p>
     <p>MSc in Compuational Neuroscience<p>
+    <p>BSc in Psychology, Data Science<p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
