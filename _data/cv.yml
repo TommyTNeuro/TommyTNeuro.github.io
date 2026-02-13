@@ -31,7 +31,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Researcher
       institution: Centre for Human Brain Health, University of Birmingham.
       year: 2025 - present
       description:
@@ -41,12 +41,12 @@
           contents:
             - Applying Transformer models to visual perception task.
             - CHBH Documentation.
-    - title: Teaching Assistant
+    - title: Teaching Fellow
       institution: School of Psychology, University of Birmingham.
       year: 2025 - present
       description:
         - Data Science.
-        - Python.
+        - Psychology.
 
     - title: Student Ambassador
       institution: University of Birmingham.
