@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-why-your-brain-runs-out-of-stream",
+        },{id: "post-why-you-brain-loses-steam",
         
-          title: "Why your brain runs out of stream",
+          title: "Why you brain loses steam",
         
-        description: "",
+        description: "A brief introduction to cognitive load theory",
         section: "Posts",
         handler: () => {
           
