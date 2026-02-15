@@ -7,9 +7,9 @@ date: 2026-02-15 22:50:00
 
 description: A brief introduction to cognitive load theory
 
-tags: Cognitive_Psychology
+tags: Psychology
 
-categories: Psychology
+categories: Mini-Blog
 ---
 
 
@@ -17,7 +17,7 @@ In the following article, I will aim to briefly introduce the reader to a mental
 
 To start, it's important to note that your brain has a limited capacity for incoming information. It can only process so much at a time. You may be aware of this when you are trying to write a message and talk to your partner at the same time. You will inevitably miss something your partner is saying, let's hope it's not important. This limited processing capacity is a long standing discovery in psychology. There is a common idea that the fast access memory you use when you're thinking of can hold roughly 7 items at a time. Whether this is true or not, it clear you brain can't hold very much information at one time, it must either store it or get rid of it. So what takes up this processing capacity? There are two types of load that may weigh on your brain when you are tackling any task.
 
-**3 Types of load on your brain**
+**2 Types of load on your brain**
 
 - Difficulty of the problem 
 - Distractions not related to the problem 
