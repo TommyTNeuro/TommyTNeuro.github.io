@@ -41,16 +41,16 @@ ninja.data = [{
             window.location.href = "/blog/2026/Why-your-brain-runs-out-of-stream/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+      },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-joined-the-the-british-neuroscience-association-and-will-be-attending-the-2026-british-neuroscience-association-meeting",
+          title: 'Joined the the British Neuroscience Association and will be attending the 2026 British...',
           description: "",
           section: "News",},{
         id: 'social-cv',
