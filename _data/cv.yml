@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: MSc
-      institution: University of Birmingham, Birmingham United Kingdom 
+      institution: University of Birmingham, United Kingdom 
       year: 2025
       description:
         - Computational Neuroscience.
@@ -22,7 +22,7 @@
             - Improving Speech Decoding using foundational models.
             - Developing BCI's for real-time analysis of time-series data.
     - title: BSc
-      institution: University of Birmingham, Birmingham, United Kingdom. And Korea University, Seoul, South Korea
+      institution: University of Birmingham, United Kingdom. And Korea University, South Korea
       year: 2021
       description:
         - Psychology.
