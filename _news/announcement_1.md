@@ -1,8 +1,8 @@
 ---
 layout: post
 title: British Neuroscience Association Membership
-date: 2026-02-16 00:58:00
-inline: true
+date: 2026-01-28 00:58:00
+inline: false
 related_posts: false
 ---
 
