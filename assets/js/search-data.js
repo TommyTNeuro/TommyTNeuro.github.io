@@ -37,12 +37,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-british-neuroscience-association-membership",
-          title: 'British Neuroscience Association Membership',
+        },{id: "news-joined-the-the-british-neuroscience-association-and-will-be-attending-the-2026-british-neuroscience-association-meeting",
+          title: 'Joined the the British Neuroscience Association and will be attending the 2026 British...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
