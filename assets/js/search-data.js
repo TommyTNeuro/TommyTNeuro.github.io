@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "My teaching materials.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-project-investigating-the-motor-theory-of-inner-speech-using-squid-meg-this-study-will-compare-a-model-trained-on-pre-speech-data-localised-to-motor-regions-and-compared-to-a-model-trained-on-perception-data-in-health-individuals",
           title: 'Project investigating the motor theory of inner speech using SQUID-MEG. This study will...',
           description: "",
