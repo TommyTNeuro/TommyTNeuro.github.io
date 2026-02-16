@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Birmingham, CHBH. 
+subtitle: Computational Neuroscientist and Teaching Fellow, University of Birmingham. 
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Compuational Neuroscientist specializing in brain computer interfaces. My focus is on developing a non-invasive Brain Computer Interface (BCI) using Optically Pumped Magnetometers Magnetoencephalography (OPM-MEG) to decode inner speech in real-time. Leveraging OPM-MEGs with their unique strengthens in real-time neural feedback and superior spatial localization provides as the best method currently to achieve this.
+My goal is to develop non-invasive Brain Computer Interfaces using Optically Pumped Magnetometers Magnetoencephalography to decode inner speech. This research will improve the ability for patients, with diseases such as ALS, to express themselves.
 
-I would like to also leverage memory safe languages, such as rust, in critical components in BCI’s to ensure stability and consistency and apply this technology within a clinical setting. The development of this goal will improve inner speech decoding performance and efficient low compute pipeline for analysis.
+I'm committed to open science practices and producing excellent high-quality replicable science. My research will follow the open-science framework and remain open to the public to the best of my ability. I also ensure my research meets high-quality standards and uses cutting edge technology.
 
-This research has promising impacts for those with speech problems due to damage or psychiatric conditions.
+I have experience teaching Psychology and Data Science to undergraduate and postgraduate students. I also have experience representing higher education institutions. I have tutor services available on request. 
 
-I'm committed to open science practices and producing excellent replicable science. I'm a member of the British Neuroscience Association and Federation of European Neuroscience Societies. 
+I'm a member of the British Neuroscience Association and Federation of European Neuroscience Societies.
