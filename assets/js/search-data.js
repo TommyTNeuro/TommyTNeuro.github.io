@@ -37,7 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-joined-the-the-british-neuroscience-association-and-will-be-attending-the-2026-british-neuroscience-association-meeting",
+        },{id: "news-project-investigating-the-motor-theory-of-inner-speech-using-squid-meg-this-study-will-compare-a-model-trained-on-pre-speech-data-localised-to-motor-regions-and-compared-to-a-model-trained-on-perception-data-in-health-individuals",
+          title: 'Project investigating the motor theory of inner speech using SQUID-MEG. This study will...',
+          description: "",
+          section: "News",},{id: "news-project-investigating-the-motor-theory-of-inner-speech-using-squid-meg-this-study-will-compare-a-model-trained-on-pre-speech-data-localised-to-motor-regions-and-compared-to-a-model-trained-on-perception-data-in-health-individuals",
+          title: 'Project investigating the motor theory of inner speech using SQUID-MEG. This study will...',
+          description: "",
+          section: "News",},{id: "news-joined-the-the-british-neuroscience-association-and-will-be-attending-the-2026-british-neuroscience-association-meeting",
           title: 'Joined the the British Neuroscience Association and will be attending the 2026 British...',
           description: "",
           section: "News",},{
