@@ -33,4 +33,4 @@ I'm committed to open science practices and producing excellent high-quality rep
 
 I have experience teaching Psychology and Data Science to undergraduate and postgraduate students. I also have experience representing higher education institutions. I have tutor services available on request. 
 
-I'm a member of the British Neuroscience Association and Federation of European Neuroscience Societies.
+Member of the British Neuroscience Association and Federation of European Neuroscience Societies.
