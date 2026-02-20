@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delivered Psychology Seminars at University of Birmingham
-date: 2025-07-17 11:00:00
+date: 2026-02-19 11:00:00
 inline: true
 related_posts: false
 ---
