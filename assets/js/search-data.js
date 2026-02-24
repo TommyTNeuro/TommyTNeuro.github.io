@@ -51,7 +51,7 @@ ninja.data = [{
           section: "News",},{id: "news-submitted-my-phd-funding-application-to-the-esrc-i-devised-a-project-and-experiment-using-opm-meg-to-record-gamma-oscillations-from-the-motor-cortex-this-is-to-improve-non-invasive-speech-decoding-for-those-who-have-lost-their-ability-to-speak-such-as-with-due-to-a-condition-such-as-als",
           title: 'Submitted my PhD funding application to the ESRC. I devised a project and...',
           description: "",
-          section: "News",},{id: "news-i-was-given-an-unconditional-offer-for-a-phd-at-the-university-of-birmingham-this-to-conduct-my-study-in-real-time-speech-decoding-using-non-invasive-opm-meg",
+          section: "News",},{id: "news-i-was-given-an-unconditional-offer-for-a-phd-at-the-university-of-birmingham-to-conduct-my-study-in-real-time-speech-decoding-using-non-invasive-opm-meg",
           title: 'I was given an unconditional offer for a PhD at the University of...',
           description: "",
           section: "News",},{id: "news-joined-the-the-british-neuroscience-association-and-will-be-attending-the-2026-british-neuroscience-association-meeting",
