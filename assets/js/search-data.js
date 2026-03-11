@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -30,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "news-started-my-undergradute-in-psychology-with-a-year-abroad-at-the-university-of-birmingham",
+        },{id: "books-1984",
+          title: '1984',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-started-my-undergradute-in-psychology-with-a-year-abroad-at-the-university-of-birmingham",
           title: 'Started my undergradute in psychology with a year abroad at the University of...',
           description: "",
           section: "News",},{id: "news-started-my-year-abroad-in-seoul-south-korea-at-korea-university-studying-neuroscience-data-science-neural-engineering-and-korean",
