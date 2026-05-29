@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neuroscience Hackathon 2026 (University of Birmingham)
-date: 2026-01-29 10:00:00
+date: 2026-05-29 10:00:00
 inline: true
 related_posts: false
 ---
