@@ -41,7 +41,7 @@ ninja.data = [{
           title: '1984',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/1984/";
             },},{id: "news-started-my-undergradute-in-psychology-with-a-year-abroad-at-the-university-of-birmingham",
           title: 'Started my undergradute in psychology with a year abroad at the University of...',
           description: "",
