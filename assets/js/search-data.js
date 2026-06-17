@@ -42,6 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/1984/";
+            },},{id: "books-letters-to-a-young-contrarian",
+          title: 'letters to a young contrarian',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/letter_to_a_young_contrarian/";
             },},{id: "news-started-my-undergradute-in-psychology-with-a-year-abroad-at-the-university-of-birmingham",
           title: 'Started my undergradute in psychology with a year abroad at the University of...',
           description: "",
