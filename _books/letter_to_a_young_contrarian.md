@@ -9,7 +9,7 @@ date: 2026-03-11
 started: 2026-06-06
 finished: 2026-06-16
 released: 2001
-status: Reading
+status: finished
 ---
 
 I mentioned before I wish to read the great books throughout history - though this book may not count - I thought this book might provide a window into some highly regarded books. I decide to read this book, firstly as it's been on my forever "partly read" list, even though I've enjoyed it every time I sat down to read it. I have to admit, though I wish to take a critical lens to books I did also wish to learn Hitchens. What I learned from Hitchen's was actually quite different from what I went into the book expecting to learn. I went in looking for a way of thinking that would aid me on my journey to tackle and defend ideas, what I came out with was a sense of grounded reality. Hitchen's was hardly the star of the show, it was really the dissenters - which Hitchens settled on as the right time rather than contrarian as the book's title suggests - that Hitchen's highlights throughout the book to make his points. Hitchen's himself I felt came out of the book as a deeply human and it's this aspect which I wish to spend most of my time on. 
