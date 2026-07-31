@@ -80,6 +80,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-participated-in-the-chbh-neuroscience-hackathon-on-the-theme-of-reproducability-on-the-first-day-i-contributed-to-the-neuroimagers-handbook-for-the-chbh-this-involved-testing-meg-related-code-on-the-hpc-bluebear-on-the-second-day-i-began-to-move-my-cancellation-task-project-over-to-python-to-enable-better-open-source-capabilities",
           title: 'I participated in the CHBH Neuroscience Hackathon on the theme of reproducability. On...',
           description: "",
+          section: "News",},{id: "news-completed-meg-operator-training-at-the-university-of-birmingham-s-chbh-with-jonathan-winter-to-be-able-to-operator-an-meg-machine-and-collect-neuroimaging-data",
+          title: 'Completed MEG Operator training at the University of Birmingham’s CHBH with Jonathan Winter...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
