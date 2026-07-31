@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Completed MEG Operator training at the University of Birmingham's CHBH with Jonathan Winter to be able to operator an MEG machine and collect Neuroimaging data. 
+Completed MEG Operator training at the University of Birmingham's CHBH with Jonathan Winter to be able to operate an MEG machine and collect Neuroimaging data. 
